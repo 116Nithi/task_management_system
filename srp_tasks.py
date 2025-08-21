@@ -29,5 +29,5 @@ class TaskManager:
         self.next_id += 1
         print(f"Task '{description}' with priority '{priority}' added.")
         return task
-
+print("Finished")
     # ... เมธอดอื่นเหมือนเดิม ...
